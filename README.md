@@ -40,6 +40,7 @@ Curated list of Pakistani software organizations or developers contributing in o
 | Zeeshan Hanif| https://github.com/zeeshanhanif| www.zeeshanhanif.info| JavaScript
 | Raees Iqbal | https://github.com/raeesbhatti| https://raeesbhatti.com | Serverless, JAMStack, NodeJS, Go
 | Anees Iqbal | https://github.com/steelbrain| https://steelbrain.me | Tooling, NodeJS, JavaScript
+| Mir Imad Ahmed | https://github.com/mirimadahmed| https://mirimad.com | Vue.JS, C#, Unity 3D
 
 
 ## Contribution
